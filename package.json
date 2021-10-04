@@ -10,14 +10,14 @@
     "polyfill",
     "latin1"
   ],
-  "homepage": "http://github.com/EventSource/eventsource",
+  "homepage": "https://github.com/DylanDelobel/eventsource-latin1",
   "author": "Dylan Delobel <dylan.delobel66@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/EventSource/eventsource.git"
+    "url": "git@github.com:DylanDelobel/eventsource-latin1.git"
   },
   "bugs": {
-    "url": "http://github.com/EventSource/eventsource/issues"
+    "url": "https://github.com/DylanDelobel/eventsource-latin1/issues"
   },
   "directories": {
     "lib": "./lib"
@@ -27,7 +27,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/EventSource/eventsource/raw/master/LICENSE"
+      "url": "https://raw.githubusercontent.com/DylanDelobel/eventsource-latin1/master/LICENSE"
     }
   ],
   "devDependencies": {

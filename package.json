@@ -1,16 +1,17 @@
 {
-  "name": "eventsource",
-  "version": "1.1.0",
-  "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
+  "name": "eventsource-latin1",
+  "version": "1.1.1",
+  "description": "W3C compliant EventSource client for Node.js and browser (polyfill) with latin1",
   "keywords": [
     "eventsource",
     "http",
     "streaming",
     "sse",
-    "polyfill"
+    "polyfill",
+    "latin1"
   ],
   "homepage": "http://github.com/EventSource/eventsource",
-  "author": "Aslak Hellesøy <aslak.hellesoy@gmail.com>",
+  "author": "Dylan Delobel <dylan.delobel66@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/EventSource/eventsource.git"

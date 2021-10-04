@@ -1,8 +1,8 @@
-# EventSource [![npm version](http://img.shields.io/npm/v/eventsource.svg?style=flat-square)](https://www.npmjs.com/package/eventsource)[![NPM Downloads](https://img.shields.io/npm/dm/eventsource.svg?style=flat-square)](http://npm-stat.com/charts.html?package=eventsource&from=2015-09-01)[![Dependencies](https://img.shields.io/david/EventSource/eventsource.svg?style=flat-square)](https://david-dm.org/EventSource/eventsource)
+# EventSource-latin1 [![npm version](http://img.shields.io/npm/v/eventsource.svg?style=flat-square)](https://www.npmjs.com/package/eventsource)[![NPM Downloads](https://img.shields.io/npm/dm/eventsource.svg?style=flat-square)](http://npm-stat.com/charts.html?package=eventsource&from=2015-09-01)[![Dependencies](https://img.shields.io/david/EventSource/eventsource.svg?style=flat-square)](https://david-dm.org/EventSource/eventsource)
 
 ![Build](https://github.com/EventSource/eventsource/actions/workflows/build.yml/badge.svg)
 
-This library is a pure JavaScript implementation of the [EventSource](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events) client. The API aims to be W3C compatible.
+This library is a pure JavaScript implementation of the [EventSource](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events) client. The API aims to be W3C compatible with latin1 encoding.
 
 You can use it with Node.js or as a browser polyfill for
 [browsers that don't have native `EventSource` support](http://caniuse.com/#feat=eventsource).
